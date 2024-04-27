@@ -1,1 +1,1 @@
-# Video_summerizer
+# Video-summarizer-tool
